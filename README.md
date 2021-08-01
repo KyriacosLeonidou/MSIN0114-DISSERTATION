@@ -1,2 +1,2 @@
 # MSIN0114-DISSERTATION
- “Advertisers often do not see the skilled and complex operational workflows required by traders to optimize a programmatic advertising campaign”. This dissertation is an exploratory analysis study that investigates the change interventions made by the traders and through the use of graphs and tables, provides a better understanding of the existing problem for the advertising agencies
+This is the repository for the UCL Business Analytics Dissertation Project
